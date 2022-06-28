@@ -18,11 +18,11 @@ The library includes interface with method that can be used to:
 ### How to use this library:
 To get started, install this library using PackageManager:
 ```powershell
-Install-Package wfsql -Version 1.2.0
+Install-Package wfsql -Version 1.4.0
 ```
 Or using .NET CLI:
 ```
-dotnet add package wfsql --version 1.2.0
+dotnet add package wfsql --version 1.4.0
 ```
 
 After installing the NuGet package, you can use the `Database` class to work with the database.
