@@ -1,6 +1,7 @@
 # WFSQL
-[![CodeFactor](https://www.codefactor.io/repository/github/kolyafedorenko/wfsql/badge)](https://www.codefactor.io/repository/github/kolyafedorenko/wfsql)
 ![Nuget](https://img.shields.io/nuget/v/wfsql)
+![Nuget](https://img.shields.io/nuget/dt/wfsql)
+[![CodeFactor](https://www.codefactor.io/repository/github/kolyafedorenko/wfsql/badge)](https://www.codefactor.io/repository/github/kolyafedorenko/wfsql)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/KolyaFedorenko/WFSQL)
 ![GitHub Release Date](https://img.shields.io/github/release-date/KolyaFedorenko/WFSQL)
 
